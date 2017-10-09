@@ -1,5 +1,6 @@
 ---
 layout:     post
+comments:   true
 title:      "Blockchain baked-in. Literally"
 subtitle:   "Accidental history of the Blockchain invention"
 date:       2017-10-09 12:00:00
