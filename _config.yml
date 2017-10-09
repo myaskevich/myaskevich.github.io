@@ -13,13 +13,13 @@ email_username: max@mayask.me
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
+google_tracking_id: UA-107791293-1
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 5
+paginate: 15
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems: [jekyll-paginate, jekyll-feed]
