@@ -6,6 +6,7 @@ subtitle:   "Accidental history of the Blockchain invention"
 date:       2017-10-09 12:00:00
 author:     "Maxim Yaskevich"
 header-img: "img/post-01/post-bg-01.jpg"
+permalink:  "bakechain"
 ---
 
 Blockchain technology is thriving and everybody is trying to get into the train and fast-track to build their own product with it.
